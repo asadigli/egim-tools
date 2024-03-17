@@ -1,0 +1,33 @@
+<?php
+
+return [
+
+  'Tool_Home' => 'Alat CSS, yang bagus untuk pengembang untuk mendesain halaman web mereka',
+  'Calculator_list' => 'Daftar kalkulator, yang diperuntukkan bagi pelajar, penerima pinjaman, orang keuangan',
+  'CSS_minifier' => 'Online CSS Minifier, yaitu untuk memperkecil kode CSS untuk meningkatkan kecepatan situs web',
+  'CSS_unminifier' => 'Pencabutan CSS online, yang bertujuan untuk menghapus kode CSS agar mudah dibaca oleh manusia',
+  'Btn_designer' => 'Generator desain Tombol Online, yang diperuntukkan bagi pengembang untuk mengembangkan situs web mereka',
+  'Shaddow_maker' => 'Generator bayangan online, yang diperuntukkan bagi pengembang untuk mengembangkan situs web mereka',
+  'Character_counter' => 'Penghitung Karakter Online, yang menghitung karakter, kata, spasi dan berguna untuk penulis dan pengembang makalah',
+  'Password_generator' => 'Generator Kata Sandi Online, yang bagus untuk membuat kata sandi acak kuat untuk mengamankan profil pengguna',
+  'Rotate_div' => 'Rotator div online, yang digunakan pengembang untuk rotasi div',
+  'RGB_HEX_converter' => 'Online RGB Hex code converter, yang bagus untuk pengembang untuk mengonversi warna ke komponen lain',
+  'Border_radius_maker' => 'Generator radius Perbatasan Online, yang bagus untuk pengembang untuk merancang div dengan batas-radius',
+  'Color_picker' => 'Pemilih warna online, yang memudahkan orang (pengembang) untuk memutuskan warna mana yang menyenangkan untuk proyek mereka',
+  'Loan_calculation' => 'Perhitungan pinjaman online, yang berguna bagi pelajar, peminjam, dan orang keuangan untuk melihat apa hasil pinjaman dengan tingkat persen tahunan',
+  'Slug_maker' =>'Alat pembuat siput daring, yang bagus bagi pengembang untuk memperkaya url situs web mereka untuk meningkatkan SEO situs web',
+  'Finance_calculator_list' => 'Kalkulator keuangan online',
+  'About_us' => 'Halaman untuk informasi tentang proyek alat Egim.io',
+  'About_finance' => 'Halaman untuk informasi tentang proyek keuangan Egim.io',
+  'Present_value_calculation' => 'Alat perhitungan nilai sekarang online. Nilai sekarang adalah nilai saat ini dari arus kas masa depan. Ini ditemukan dengan mendiskontokan nilai masa depan pada tingkat diskonto',
+  'Future_value_calculation' => 'Alat perhitungan Online Future Value (FV). Nilai masa depan adalah nilai aset lancar pada waktu mendatang yang ditentukan berdasarkan tingkat pertumbuhan tertentu',
+  'Bond_price_calculation' => 'Kalkulator harga obligasi online. Harga obligasi adalah nilai sekarang dari semua arus kas yang dihasilkan oleh obligasi. Ini dihitung dengan mendiskontokan pembayaran kupon obligasi dan nilai nominalnya',
+  'Rate_of_return_calculation' => 'Kalkulator harga obligasi online. Tingkat pengembalian adalah keuntungan atau kerugian bersih yang dihasilkan oleh investasi selama periode waktu tertentu, dan disebut sebagai persentase investasi awal',
+  'Bond_price_calculation' => 'Kalkulator harga obligasi online. Harga obligasi adalah nilai sekarang dari semua arus kas yang dihasilkan oleh obligasi. Ini dihitung dengan mendiskontokan pembayaran kupon obligasi dan nilai nominalnya',
+  'Rate_of_return_calculation' => 'Kalkulator keuangan online. Tingkat pengembalian adalah keuntungan atau kerugian bersih yang dihasilkan oleh investasi selama periode waktu tertentu, dan disebut sebagai persentase investasi awal',
+  'CSS_comment_cleaner' => 'Alat CSS online yang berguna bagi pengembang untuk membersihkan komentar dari kode CSS, dan mengurangi ukuran file',
+  'Font_design' => 'Alat CSS online yang berguna bagi pengembang untuk desain font',
+  'Inflation_calculation' => 'Kalkulator inflasi online. Mesin untuk orang keuangan. Inflasi adalah kenaikan tingkat harga dari satu tahun ke tahun berikutnya',
+  'Text_to_Json_converter' => 'Konverter Teks ke JSON online gratis yang bagus untuk pengumpulan data dari file teks dalam format JSON',
+  'Extra12' => '',
+];

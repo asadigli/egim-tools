@@ -1,0 +1,31 @@
+<?php
+
+return [
+
+  'Tool_Home' => 'Herramientas CSS, que son buenas para que los desarrolladores diseñen su página web..',
+  'Calculator_list' => 'Listas de calculadoras, que son para estudiantes, tomadores de préstamos, personas financieras.',
+  'CSS_minifier' => 'Minificador de CSS en línea, que sirve para minimizar el código CSS para aumentar la velocidad del sitio web.',
+  'CSS_unminifier' => 'Uninifier CSS en línea, que es para desminificar el código CSS para que sea legible para las personas.',
+  'Btn_designer' => 'Generador de diseño de botones en línea, que es para los desarrolladores para desarrollar su sitio web.',
+  'Shaddow_maker' => 'Generador de sombra en línea, que es para que los desarrolladores desarrollen su sitio web.',
+  'Character_counter' => 'Contador de caracteres en línea, que cuenta caracteres, palabras, espacios y es útil para escritores y desarrolladores',
+  'Password_generator' => 'Generador de contraseña en línea, que es bueno para generar una contraseña segura al azar para asegurar el perfil de usuario',
+  'Rotate_div' => 'Rotador de div en línea, que es para que los desarrolladores utilicen para la rotación de div',
+  'RGB_HEX_converter' => 'El convertidor de código hexadecimal RGB en línea es bueno para que los desarrolladores conviertan el color a diferentes componentes',
+  'Border_radius_maker' => 'Generador de radio de borde en línea, que es bueno para que los desarrolladores diseñen div con radio de borde',
+  'Color_picker' => 'Selector de color en línea, que facilita a las personas (desarrolladores) decidir qué color es agradable para su proyecto',
+  'Loan_calculation' => 'Cálculo de préstamo en línea, que es útil para estudiantes, prestatarios y personal financiero para ver qué resultado de préstamo se obtiene con APR',
+  'Slug_maker' =>'La herramienta en línea del fabricante de slug, que es buena para que los desarrolladores enriquezcan las URL de sus sitios web para mejorar el SEO del sitio web',
+  'Finance_calculator_list' => 'Calculadoras de finanzas en línea',
+  'About_us' => 'Página para información sobre el proyecto de herramientas Egim.io',
+  'About_finance' => 'Página para información sobre el proyecto de financiación Egim.io.',
+  'Present_value_calculation' => 'Herramienta de cálculo de valor presente en línea. El valor presente es el valor actual de los flujos de efectivo futuros. Se encuentra al descontar el valor futuro a la tasa de descuento',
+  'Future_value_calculation' => 'Herramienta de cálculo de valor futuro en línea (FV). El valor futuro es el valor del activo actual en un tiempo futuro específico basado en cierta tasa de crecimiento',
+  'Bond_price_calculation' => 'Calculadora de precios de bonos en línea. El precio de los bonos es el valor presente de todos los flujos de efectivo generados por los bonos. Se calcula descontando los pagos de cupón de los bonos y su valor nominal (par)',
+  'Rate_of_return_calculation' => 'La tasa de rendimiento es la ganancia o pérdida neta generada por la inversión durante el período de tiempo especificado y se menciona como porcentaje de la inversión inicial',
+  'CSS_comment_cleaner' => 'Herramienta CSS en línea que es útil para que los desarrolladores limpien los comentarios del código CSS y reduzcan el tamaño del archivo',
+  'Font_design' => 'Herramienta CSS en línea que es útil para los desarrolladores para el diseño de fuentes.',
+  'Inflation_calculation' => 'Calculadora de inflación en línea. Motor para gente de finanzas. La inflación es el aumento en el nivel de precios de un año al siguiente',
+  'Text_to_Json_converter' => 'Free Text to JSON Converter en línea, que es bueno para recopilar datos de un archivo de texto en formato JSON',
+  'Extra12' => '',
+];

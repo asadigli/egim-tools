@@ -1,0 +1,28 @@
+<?php
+
+return [
+  'Tool_Home' => 'Layanan gratis, Mesin online, desain web, front-end, Alat, Pengembangan, Pengembang, CSS, javascript, generator, pembuat',
+  'Calculator_list' => 'Layanan gratis, Mesin online, Kalkulator, keuangan, matematika, matematika',
+  'CSS_minifier' => 'Layanan gratis, Mesin online, desain web, front-end, CSS, minify, minifier, reducer, Html, Pengembang, pengembangan, lebih cepat',
+  'CSS_unminifier' => 'Layanan gratis, Mesin daring, desain web, front-end, CSS, tidak minmin, tidak minmin, lebih bersih, CSS yang dapat dibaca manusia, Html, Pengembang, pengembangan',
+  'Btn_designer' => 'Layanan gratis, Mesin online, desain web, front-end, Tombol, desain, CSS, batas tombol, radius tombol, ukuran tombol, generator tombol, pembuat tombol',
+  'Shaddow_maker' => 'Layanan gratis, Mesin online, desain web, front-end, generator Shadow, properti CSS, shadow',
+  'Character_counter' => 'Layanan gratis, Mesin online, surat, penghitung surat, desain Web, front-end, penghitung karakter, penghitung surat, penghitung kata, penghitung ruang',
+  'Password_generator' => 'Layanan gratis, Mesin online, desain web, front-end, pembuat kata sandi, kata sandi aman, kata sandi manual',
+  'Rotate_div' => 'Layanan gratis, Mesin online, desain web, front-end, properti CSS, rotator div, rotator kiri-kanan',
+  'RGB_HEX_converter' => 'Layanan gratis, Mesin online, desain web, ujung depan, pewarnaan, properti CSS, RGB, merah-hijau-biru, kode warna Hex, konverter warna, warna HSL',
+  'Border_radius_maker' => 'Layanan gratis, Mesin online, desain web, front-end, properti CSS, generator batas-jari, pembuat radius, perbatasan div',
+  'Color_picker' => 'Layanan gratis, Mesin online, desain web, front-end, properti CSS, pemilih warna, pilih warna, kode warna RGB, kode warna Hex, kode warna Hsl',
+  'Loan_calculation' => 'Layanan gratis, Mesin daring, Matematika, kalkulator, keuangan, Kalkulator pinjaman, persen pinjaman, pembayaran pokok dan bunga',
+  'Slug_maker' => 'Layanan gratis, Mesin online, pembuat siput, generator, penyempurnaan SEO, pembuat URL',
+  'Finance_calculator_list' => 'Layanan gratis, Keuangan, kalkulator, pinjaman',
+  'About_us' => 'Layanan gratis, Egim.io, alat CSS, tentang Egim.io, mesin online, ahli kecantikan, pengembangan front-end, desain web',
+  'About_finance' => 'Layanan gratis, Egim.io, keuangan, perhitungan, tentang Egim.io, pinjaman, perbankan',
+  'Present_value_calculation' => 'Layanan gratis, Keuangan, kalkulator online, mesin matematika, nilai sekarang, PV, nilai waktu uang',
+  'Future_value_calculation' => 'Layanan gratis, Keuangan, kalkulator, mesin matematika, nilai masa depan, FV, nilai waktu uang',
+  'CSS_comment_cleaner' => 'Layanan gratis, Mesin online, alat CSS, pembersih komentar, peredam ukuran, pembuat kode, desain web',
+  'Font_design' => 'Layanan gratis, Mesin online, alat CSS, pembuat font, dekorator teks, desain web, mempercantik',
+  'Inflation_calculation' => 'Layanan gratis, Mesin online, kalkulator keuangan, ekonomi, inflasi, tingkat harga, deflator PDB',
+  'Text_to_Json_converter' => 'Layanan gratis, mesin online, konverter JSON, pengumpulan data, alat pengembangan',
+  'Extra' => '',
+];

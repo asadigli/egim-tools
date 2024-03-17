@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://tools.egim.io/</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/css-minifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/password-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/btn-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/shadow-creator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/character-counter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/color-picker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/finance</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/css-unminifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/css-comment-cleaner</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/css-font-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/rotate-div</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/border-radius-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/rgb-hex-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/slug-maker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/text-to-json-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/css-minifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/css-minifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/css-minifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/css-minifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/css-minifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/css-minifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/css-minifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/password-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/password-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/password-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/password-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/password-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/password-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/password-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/btn-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/btn-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/btn-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/btn-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/btn-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/btn-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/btn-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/shadow-creator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/shadow-creator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/shadow-creator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/shadow-creator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/shadow-creator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/shadow-creator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/shadow-creator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/character-counter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/character-counter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/character-counter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/character-counter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/character-counter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/character-counter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/character-counter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/color-picker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/color-picker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/color-picker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/color-picker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/color-picker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/color-picker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/color-picker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/finance/loan-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/finance/present-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/finance/future-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/finance/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/finance</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/finance</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/finance</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/finance</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/finance</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/finance</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/finance</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/finance/bond-price-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/finance/rate-of-return-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/en/finance/inflation-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/css-unminifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/css-comment-cleaner</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/css-font-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/rotate-div</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/border-radius-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/rgb-hex-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/slug-maker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/text-to-json-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/css-unminifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/css-comment-cleaner</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/css-font-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/rotate-div</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/border-radius-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/rgb-hex-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/slug-maker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/text-to-json-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/css-unminifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/css-comment-cleaner</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/css-font-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/rotate-div</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/border-radius-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/rgb-hex-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/slug-maker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/text-to-json-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/css-unminifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/css-comment-cleaner</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/css-font-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/rotate-div</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/border-radius-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/rgb-hex-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/slug-maker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/text-to-json-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/css-unminifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/css-comment-cleaner</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/css-font-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/rotate-div</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/border-radius-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/rgb-hex-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/slug-maker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/text-to-json-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/css-unminifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/css-comment-cleaner</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/css-font-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/rotate-div</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/border-radius-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/rgb-hex-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/slug-maker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/text-to-json-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/css-unminifier</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/css-comment-cleaner</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/css-font-design</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/rotate-div</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/border-radius-generator</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/rgb-hex-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/slug-maker</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/text-to-json-converter</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/finance/loan-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/finance/loan-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/finance/loan-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/finance/loan-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/finance/loan-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/finance/loan-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/finance/loan-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/finance/present-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/finance/present-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/finance/present-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/finance/present-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/finance/present-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/finance/present-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/finance/present-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/finance/future-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/finance/future-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/finance/future-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/finance/future-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/finance/future-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/finance/future-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/finance/future-value-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/finance/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/finance/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/finance/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/finance/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/finance/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/finance/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/finance/about</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/finance/bond-price-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/finance/rate-of-return-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/az/finance/inflation-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/finance/bond-price-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/finance/rate-of-return-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/es/finance/inflation-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/finance/bond-price-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/finance/rate-of-return-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/de/finance/inflation-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/finance/bond-price-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/finance/rate-of-return-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/id/finance/inflation-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/finance/bond-price-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/finance/rate-of-return-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/zh/finance/inflation-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/finance/bond-price-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/finance/rate-of-return-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/tr/finance/inflation-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/finance/bond-price-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/finance/rate-of-return-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://tools.egim.io/hi/finance/inflation-calculation</loc>
+  <lastmod>2019-02-27T18:09:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

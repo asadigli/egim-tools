@@ -1,0 +1,31 @@
+<?php
+
+return [
+
+  'Tool_Home' => 'CSS工具，有利于开发人员设计他们的网页',
+  'Calculator_list' => '计算器列表，适用于学生，贷款人，财务人员',
+  'CSS_minifier' => '在线CSS最小化，用于缩小CSS代码以提高网站速度',
+  'CSS_unminifier' => '在线CSS unminifier，用于取消CSS代码，使其具有人类可读性',
+  'Btn_designer' => '在线按钮设计生成器，这是为开发人员开发他们的网站',
+  'Shaddow_maker' => '在线影子生成器，这是供开发人员开发自己的网站',
+  'Character_counter' => '在线字符计数器，计算字符，单词，空格，对纸质作者和开发人员有用',
+  'Password_generator' => '在线密码生成器，适用于生成随机强密码以保护用户配置文件',
+  'Rotate_div' => '在线div旋转器，供开发人员用于div旋转',
+  'RGB_HEX_converter' => '在线RGB Hex代码转换器，有利于开发人员将颜色转换为不同的组件',
+  'Border_radius_maker' => '在线边界半径生成器，有利于开发人员设计具有边界半径的div',
+  'Color_picker' => '在线颜色选择器，使人们（开发人员）更容易决定哪个颜色适合他们的项目',
+  'Loan_calculation' => '在线贷款计算，对学生，借款人和财务人员有用，可以查看年度百分比率的贷款结果',
+  'Slug_maker' =>'在线slug制造工具，这有利于开发人员丰富他们的网站网址，以推动网站的搜索引擎优化',
+  'Finance_calculator_list' => '在线金融计算器',
+  'About_us' => '有关Egim.io工具项目的信息页面',
+  'About_finance' => '有关Egim.io金融项目的信息页面',
+  'Present_value_calculation' => '在线现值计算工具。 现值是未来现金流量的现值。 通过以贴现率贴现未来价值来发现',
+  'Future_value_calculation' => '在线未来价值（FV）计算工具。 未来价值是指基于特定增长率在指定的未来时间流动资产的价值',
+  'Bond_price_calculation' => '在线债券价格计算器。 债券价格是债券产生的所有现金流量的现值。 它是通过贴现债券的票面付款及其面值（面值）来计算的',
+  'Rate_of_return_calculation' => '在线债券价格计算器。 回报率是指在特定时期内投资产生的净收益或损失，并以初始投资的百分比表示',
+  'CSS_comment_cleaner' => '在线CSS工具，对于开发人员从CSS代码中清除注释并减小文件大小非常有用',
+  'Font_design' => '在线CSS工具，对开发人员的字体设计很有用',
+  'Inflation_calculation' => '在线通胀计算器。 金融人的引擎。 通货膨胀是价格水平从一年到下一年的增长',
+  'Text_to_Json_converter' => '免费在线Text to JSON Converter，适用于从JSON格式的文本文件中收集数据',
+  'Extra12' => '',
+];

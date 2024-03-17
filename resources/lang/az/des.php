@@ -1,0 +1,30 @@
+<?php
+
+return [
+
+  'Tool_Home' => 'CSS Alətləri, developerlər üçün veb səhifəsini tərtib etmək üçün yaxşıdır',
+  'Calculator_list' => 'Kalkulyator siyahıları tələbələr, kredit verənlər, maliyyə adamları üçündür',
+  'CSS_minifier' => 'Onlayn CSS Kiçildici saytın sürətini artırmaq üçün CSS kodunu kiçiltmək üçündür ',
+  'CSS_unminifier' => 'Onlayn CSS unminifier insan oxunaqlı etmək üçün CSS kodu çıxarmaq üçündür',
+  'Btn_designer' => 'Onlayn Düymə Dizayn Yaradıcı developerlərin saytlarını inkişaf etdirməsi üçündür.',
+  'Shaddow_maker' => 'Onlayn Kölgə Yaradıcı developerlərin saytlarını inkişaf etdirməsi üçündür',
+  'Character_counter' => 'Onlayn obraz sayıcı xarakterləri,sözləri,boşluqları sayır və bu yazarlar və developerlər üçün faydalıdır.',
+  'Password_generator' => 'Onlayn Şifrə Yaradıcı təsadüfi güclü bir parol yaradaraq istifadəçinin profilini qoruyur',
+  'Rotate_div' => 'Onlayn div fırladan developerlərin divi fırlatması üçündür',
+  'RGB_HEX_converter' => 'Onlayn RGB Hex kod dəyişən rəngləri müxtəlif komponentlərə çevirmək üçündür',
+  'Border_radius_maker' => 'Onlayn Sərhəd radius yaradıcı developerlərin divi sərhəd-radiusla dizayn etməsi üçün yaxşıdır',
+  'Color_picker' => 'Onlayn rəng seçici hansı rəngin layihə üçün xoşagələn olmasını müəyyən edir',
+  'Loan_calculation' => 'Onlayn kredit hesablanması tələbələr, borcalanlar və maliyyə adamlarının APR ilə hansı nəticə əldə etdiyini görmələri üçün faydalıdır',
+  'Slug_maker' =>'Onlayn slug düzəltmə aləti developerlərin website url-lərini zənginləşdirərək website SEO-sunu inkişaf elətdirməyə imkan verir ',
+  'Finance_calculator_list' => 'Onlayn maliyyə kalkulyatorları.',
+  'About_us' => ' Egim.io Alətləri layihəsi haqqında informasiya səhifəsi.',
+  'About_finance' => 'Egim.io maliyyə layihəsi haqqında informasiya səhifəsi.',
+  'Present_value_calculation' => 'Onlayn cari dəyər (PV) hesablanma aləti. Cari dəyər gələcək pul vəsaitlərinin hazırki dəyəridir. Gələcək dəyərinin diskont dərəcəsində diskontlaşdırmaqla əldə edilir',
+  'Future_value_calculation' => 'Onlayn Gələcək dəyər (FV) hesablanma aləti. Gələcək dəyər müəyyən artım tempi əsasında müəyyən edilmiş gələcək zamanda cari aktivin dəyəridir',
+  'Bond_price_calculation' => 'Onlayn bon qiyməti hesablanması. Bond qiyməti, əmanətlə yaranan bütün pul vəsaitlərinin axınının indiki dəyəridir. Bu, istiqrazın kupon ödənişləri və nominal dəyərinin diskontlaşdırılması yolu ilə hesablanır',
+  'Rate_of_return_calculation' => 'Onlayn gəlirlilik dərəcəsi hesablanması. İnvestisiya gəlirliliyi, müəyyən müddət ərzində investisiya yolu ilə yaranan xalis mənfəət və ya zərərdir və ilkin investisiya faizi olaraq ifadə edilir',
+  'CSS_comment_cleaner' => 'Onlayn CSS aləti developerlərin CSS koddan şərhləri təmizləyərək faylın ölçüsünü azaltmaq üçün faydalıdır',
+  'Font_design' => 'Developerlər üçün asan bir şəkildə veb saytına şrift (mətn) hazırlamaq üçün faydalı olan Online CSS vasitə',
+  'Inflation_calculation' => 'Onlayn inflaysiya kalkulyatoru. Maliyyə işləyənləri üçün mühərrik. İnflyasiya qiymət səviyyəsinin bir ildən digər ilə olan artımıdır',
+  'Text_to_Json_converter' => 'Mətni JSON formatına çevirmək üçün onlayn ödənişsiz qurğu',
+];

@@ -1,0 +1,31 @@
+<?php
+
+return [
+
+  'Tool_Home' => 'CSS-Tools, mit denen Entwickler ihre Webseite entwerfen können',
+  'Calculator_list' => 'Taschenrechnerlisten, die für Studenten, Darlehensnehmer, Personen sind',
+  'CSS_minifier' => 'Online-CSS-Minifier zur Minimierung des CSS-Codes zur Steigerung der Website-Geschwindigkeit',
+  'CSS_unminifier' => 'Online-CSS-Unminifier, der dazu dient, CSS-Code zu entfernen, um ihn lesbar zu machen',
+  'Btn_designer' => 'Online Button Design Generator, mit dem Entwickler ihre Website entwickeln können',
+  'Shaddow_maker' => 'Online-Schattengenerator, mit dem Entwickler ihre Website entwickeln können',
+  'Character_counter' => 'Online-Zeichenzähler, der Zeichen, Wörter und Leerzeichen zählt und für Schreibmaschinen und Entwickler nützlich ist',
+  'Password_generator' => 'Online-Passwortgenerator, der sich zum Generieren eines zufällig sicheren Kennworts eignet, um das Benutzerprofil zu schützen',
+  'Rotate_div' => 'Online-Div-Rotator, der von Entwicklern für die Div-Rotation verwendet wird',
+  'RGB_HEX_converter' => 'Online-RGB-Hex-Code-Konverter, mit dem Entwickler Farben in verschiedene Komponenten konvertieren können',
+  'Border_radius_maker' => 'Online-Border-Radius-Generator, der für Entwickler geeignet ist, div mit Border-Radius zu entwerfen',
+  'Color_picker' => 'Online-Farbauswahl, die es Benutzern (Entwicklern) erleichtert zu entscheiden, welche Farbe für Ihr Projekt angenehm ist',
+  'Loan_calculation' => 'Online-Darlehensberechnung, die für Studenten, Kreditnehmer und Finanzleute hilfreich ist, um zu ermitteln, welches Darlehen mit dem APR (Jahresprozentsatz) erzielt wird',
+  'Slug_maker' =>'Online-Slug-Maker-Tool, das für Entwickler eine gute Bereicherung ihrer Website-URLs darstellt, um das SEO der Website zu fördern',
+  'Finance_calculator_list' => 'Online-Finanzrechner',
+  'About_us' => 'Informationen zum Egim.io Tools-Projekt',
+  'About_finance' => 'Auf dieser Seite finden Sie Informationen zum Finanzprojekt Egim.io',
+  'Present_value_calculation' => 'Online-Berechnungswerkzeug für den Barwert (PV). Der Barwert ist der aktuelle Wert der zukünftigen Cashflows. Es wird durch Abzinsung des zukünftigen Werts zum Abzinsungssatz ermittelt',
+  'Future_value_calculation' => 'Online Future Value (FV) Berechnungstool. Der zukünftige Wert ist der Wert des aktuellen Vermögens zum angegebenen zukünftigen Zeitpunkt, basierend auf einer bestimmten Wachstumsrate',
+  'Bond_price_calculation' => 'Online-Preisrechner für Anleihen. Der Anleihepreis ist der Barwert aller durch die Anleihe generierten Cashflows. Sie wird durch Diskontierung der Kuponzahlungen der Anleihe und ihres Nennwerts berechnet',
+  'Rate_of_return_calculation' => 'Online-Rechner. Die Rendite ist der Nettogewinn oder -verlust, der durch die Investition während des angegebenen Zeitraums generiert wird, und wird als Prozentsatz der ursprünglichen Investition angegeben',
+  'CSS_comment_cleaner' => 'Online-CSS-Tool, das für Entwickler hilfreich ist, um Kommentare aus CSS-Code zu entfernen und die Größe der Datei zu reduzieren',
+  'Font_design' => 'Online-CSS-Tool, mit dem Entwickler auf einfache Weise Schriftarten (Text) für ihre Website entwerfen können',
+  'Inflation_calculation' => 'Online-Inflationsrechner Motor für Finanzleute. Inflation ist der Anstieg des Preisniveaus von einem Jahr zum nächsten Jahr',
+  'Text_to_Json_converter' => 'Kostenloser Online-Text-zu-JSON-Konverter, der sich zum Sammeln von Daten aus einer Textdatei im JSON-Format eignet',  
+  'example' => '',
+];
